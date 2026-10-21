@@ -1,0 +1,17 @@
+# Private operational evidence must stay outside the public repository
+private/
+private-data/
+exports/
+financials/
+statements/
+customer-data/
+.env
+.env.*
+!.env.example
+*.pdf
+*.zip
+*.xlsx
+*.xls
+*.log
+*.pem
+*.key
